@@ -1,0 +1,23 @@
+{
+  "name": "wppwebbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@open-wa/wa-automate": "^4.51.1",
+    "axios": "^1.1.3",
+    "puppeteer": "^13.7.0",
+    "qrcode-terminal": "^0.12.0",
+    "wa-sticker-formatter": "^4.3.2",
+    "whatsapp-web.js": "^1.18.3",
+    "ytdl-core": "^4.11.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
